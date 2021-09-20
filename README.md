@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fianfian237
 - 👀 I’m interested in web development, data science (graph theory, deep learning, nlp) and a bit of big data. And in real life, my hobbies include languages, dance, basketball and chess
-- 🌱 I’m currently learning full stack development via personal projects, spanish and 
+- 🌱 I’m currently learning full stack development (node js, react) via personal projects, spanish and try to stay update with deep learning approaches when I have time (python)
 - 💞️ I’m looking to collaborate on data science/machine learning projects from stratch in recommendation system, reinforcement learning or nlp where everything will have to be done.
 - 📫 How to reach me ? My email seems a good start and I will answer pretty fast - emmaphil25@gmail.com
 
